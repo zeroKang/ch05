@@ -9,6 +9,7 @@ package org.zerock.ch05.controller;
 @Log4j2
 public class SampleController {
 
+
     @RequestMapping("/ex1")
     public void ex1(){
         log.info("ex1.............");
